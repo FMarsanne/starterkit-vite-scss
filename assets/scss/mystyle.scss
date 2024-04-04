@@ -1,0 +1,28 @@
+.button {
+    background-color: blue;
+    padding: 20px 20px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: green;
+  }
+  
+  .button.danger {
+    background-color: red;
+  }
+  
+  .button.info {
+    background-color: blue; /* Couleur de fond par défaut */
+  }
+  
+  .button.info:hover {
+    background-color: yellow; /* Couleur de fond au survol */
+  }
+  
+  .button.warning {
+    background-color: orange;
+  }
+  
+  .montexte{background-color:green}
+  
